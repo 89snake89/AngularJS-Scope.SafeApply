@@ -1,3 +1,6 @@
+# AngularJS - Scope.SafeApply :: Treeweb Fork
+---------------------------------------------
+
 # AngularJS - Scope.SafeApply
 
 AngularJS **$scope.$apply()** **without** the **hassle** and **errors** :)

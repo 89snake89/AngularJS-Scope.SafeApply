@@ -1,0 +1,25 @@
+{
+  "name": "angularjs-scope.safeapply",
+  "description": "A Scope Wrapper for AngularJS",
+  "homepage": "https://github.com/yearofmoo/AngularJS-Scope.SafeApply",
+  "bugs": {
+    "url": "https://github.com/yearofmoo/AngularJS-Scope.SafeApply/issues"
+  },
+  "dependencies": {
+    "angular": ">= 1.0.2"
+  },
+  "keywords": [
+    "AngularJS",
+    "apply",
+    "scope",
+    "nodejs",
+    "js",
+    "javascript"
+  ],
+  "author": "Matias Niemela",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/yearofmoo/AngularJS-Scope.SafeApply.git"
+  },
+  "version": "0.0.1"
+}
